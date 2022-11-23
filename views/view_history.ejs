@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+</head>
+
+<h1>Entry History:</h1>
+
+<body>
+  <ul>
+    <% data.forEach(function(dat) { %>
+        Message: <%= dat.message %>
+        <br>
+        Sentiment: <%= dat.sentiment%>
+        <br>
+        Date: <%= dat.date%>
+        <br>
+        <br>
+    <% }); %>
+  </ul>
+ </body>
+
+ <form action="/home">
+    <input type="submit" value="Go to home" />
+</form>
+
+</html>

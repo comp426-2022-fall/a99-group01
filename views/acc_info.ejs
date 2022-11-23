@@ -1,0 +1,27 @@
+<h1>Account Info</h1>
+
+<h2>Current Username</h2>
+<%- user -%>
+
+<h2>Current Password</h2>
+<%- pass -%>
+
+<h2>Delete Account</h2>
+
+<form method="post" action="/delete_acc">
+  <p>
+    <label for="username">Confirm Username:</label>
+    <input type="text" name="username" id="username">
+  </p>
+  <p>
+    <label for="password">Confirm Password:</label>
+    <input type="text" name="password" id="password">
+  </p>
+  <p>
+    <input type="submit" value="Delete account">
+  </p>
+</form>
+
+<form action="/home">
+    <input type="submit" value="Go to Home" />
+</form>
