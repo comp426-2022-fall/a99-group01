@@ -1,0 +1,40 @@
+{
+  "name": "a99-group01",
+  "version": "1.0.0",
+  "description": "Final project for COMP 426",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "http"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a99-group01.git"
+  },
+  "author": "niharcv",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a99-group01/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a99-group01#readme",
+  "dependencies": {
+    "consolidate": "^0.16.0",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "minimist": "^1.2.7",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "type": "module"
+}
