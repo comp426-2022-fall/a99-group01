@@ -3,6 +3,7 @@ import express from 'express';
 import path from 'path';
 import {fileURLToPath} from 'url';
 import Database from "better-sqlite3"
+import { resolveSoa } from 'dns';
 
 const db = new Database('project.db');
 db.pragma('journal_mode = WAL');
@@ -26,7 +27,6 @@ try {
 } catch (error) {
 }
 
-
 const args = minimist(process.argv.slice(2));
 const port = args.port || 2000
 
@@ -34,6 +34,9 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express()
+
+// link stylesheet to the right folder
+app.use(express.static("public"))
 
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));

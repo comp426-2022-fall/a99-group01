@@ -1,33 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Login</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
 
-<h1>Login</h1>
+  <body>
+    <div class="text-box">
+      <h1>Login</h1>
+      <form method="post" action="/login">
+        <p>
+          <label for="username">Username</label>
+          <input type="text" name="username" id="username">
+        </p>
+        <p>
+          <label for="password">Password</label>
+          <input type="text" name="password" id="password">
+        </p>
+        <p>
+          <!-- TODO Button and div -->
+          <input type="submit" value="Login" class="login-btn">
+        </p>
+      </form>
 
-<form method="post" action="/login">
-  <p>
-    <label for="username">Username:</label>
-    <input type="text" name="username" id="username">
-  </p>
-  <p>
-    <label for="password">Password:</label>
-    <input type="text" name="password" id="password">
-  </p>
-  <p>
-    <input type="submit" value="Login">
-  </p>
-</form>
+        <h1>Create New Account</h1>
 
-<h1>Create New Account</h1>
-
-<form method="post" action="/newacc">
-  <p>
-    <label for="username">Username:</label>
-    <input type="text" name="username" id="username">
-  </p>
-  <p>
-    <label for="password">Password:</label>
-    <input type="text" name="password" id="password">
-  </p>
-  <p>
-    <input type="submit" value="Create new account">
-  </p>
-</form>
-
+      <form method="post" action="/newacc">
+        <p>
+          <label for="username">Username</label>
+          <input type="text" name="username" id="username">
+        </p>
+        <p>
+          <label for="password">Password</label>
+          <input type="text" name="password" id="password">
+        </p>
+        <p>
+          <input type="submit" value="Create new account" class="login-btn">
+        </p>
+      </form>
+    </div>
+  </body>
+</html>

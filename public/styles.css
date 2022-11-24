@@ -1,0 +1,38 @@
+body {
+    background-color: #D3F8E2;
+}
+
+.text-box{
+    width: 80%;
+    background-color: #A9DEF9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+.text-box h1{
+    font-size: 40px;
+    color:#F694C1;
+}
+.text-box p{
+    font-weight: bold; 
+    margin: 10px 0 40px;
+    font-size: 20px;
+    color: #0F9BE6;
+}
+
+.login-btn{
+    color: #E4C1F9;
+    border: 3px solid rgb(242, 233, 233);
+    padding: 10px 30px;
+    font-size: 13px;
+    background: #1f6778;
+  }
+  .login-btn:hover{
+    border: 3px solid #2f7769;
+    background: #DCDDEE;
+    transition: 1s;
+    color: #77a0ec;
+  }
+    
