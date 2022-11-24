@@ -1,6 +1,13 @@
 # a99-group01 Final Project
 Group 1's final project
 
+## How can I run this locally?
+1. Clone the repository
+2. Do `npm install minimist` in the terminal once you are within the folder you cloned
+3. Type `npm start` in the terminal and hit enter
+4. On your chrome browser, navigate to the webpage localhost:2000/
+5. Do CONTROL+C to stop hosting it
+
 ## Summary 
 
 COMP426 final project template boilerplate.
