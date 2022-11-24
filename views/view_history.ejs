@@ -3,26 +3,28 @@
 
 <head>
   <meta charset="utf-8">
+  <title>History</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 
-<h1>Entry History:</h1>
+
 
 <body>
-  <ul>
-    <% data.forEach(function(dat) { %>
-        Message: <%= dat.message %>
-        <br>
-        Sentiment: <%= dat.sentiment%>
-        <br>
-        Date: <%= dat.date%>
-        <br>
-        <br>
-    <% }); %>
+  <div class="text-box">
+    <h1>Digital Positivity Journal</h1>
+    <h2>Past Messages</h2>
+    <ul>
+    <%data.forEach(function(dat) {%>
+    <p style="margin:0%; color:#A733EB">Message: <%= dat.message %></p>
+    <p style="margin:0%; color:rgb(65, 71, 185)"">Sentiment: <%= dat.sentiment%></p>
+    <p style="margin:0%; color:#cab91a"">Date: <%= dat.date%></p><br>
+    <%});%>
   </ul>
  </body>
 
  <form action="/home">
-    <input type="submit" value="Go to home" />
+    <input type="submit" value="Go to home" class="login-btn" style="margin: 20px;"/>
 </form>
 
+</div>
 </html>
