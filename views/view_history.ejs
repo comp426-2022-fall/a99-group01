@@ -13,6 +13,7 @@
   <div class="text-box">
     <h1>Digital Positivity Journal</h1>
     <h2>Past Messages</h2>
+    <p style="margin:0%;">Here's your diary where you can see all the entries you have logged in this journal.<br>You can also see how you felt about these past few days.</p>
     <ul>
     <%data.forEach(function(dat) {%>
     <p style="margin:0%; color:#A733EB">Message: <%= dat.message %></p>
@@ -23,7 +24,7 @@
  </body>
 
  <form action="/home">
-    <input type="submit" value="Go to home" class="login-btn" style="margin: 20px;"/>
+    <input type="submit" value="Return Home" class="login-btn" style="margin: 20px;"/>
 </form>
 
 </div>
