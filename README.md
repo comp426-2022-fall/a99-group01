@@ -6,7 +6,7 @@ Group 1's final project
 2. Do `npm install minimist`, `npm install express`, `npm install path`, `npm install url`, and `npm install better-sqlite3` in the terminal once you are within the folder you cloned
 3. Type `npm start` in the terminal and hit enter
 4. On your chrome browser, navigate to the webpage localhost:2000/
-5. Do CONTROL+C to stop hosting it
+5. Do `CONTROL+C` to stop hosting it
 
 ## Summary 
 
