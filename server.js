@@ -3,7 +3,6 @@ import express from 'express';
 import path from 'path';
 import {fileURLToPath} from 'url';
 import Database from "better-sqlite3"
-import { resolveSoa } from 'dns';
 
 const db = new Database('project.db');
 db.pragma('journal_mode = WAL');
@@ -182,7 +181,7 @@ app.post('/newacc', function(req, res) {
 
     const timeElapsed = Date.now();
     const today = new Date(timeElapsed);
-    const stmt2 = `INSERT INTO logs (user, message, time) VALUES ('${user1}', 'tried to create new user', '${today.toISOString()}');`;
+    const stmt2 = `INSERT INTO logs (user, message, time) VALUES ('${user}', 'tried to create new user', '${today.toISOString()}');`;
     db.exec(stmt2)
 
     const stmt1 = db.prepare(`SELECT * FROM users WHERE user='${user}'`);
