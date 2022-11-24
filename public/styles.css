@@ -12,8 +12,17 @@ body {
     text-align: center;
 }
 .text-box h1{
-    font-size: 40px;
+    font-size: 45px;
+    color:#e0619c;
+    font-family: fantasy;
+}
+.text-box h2{
+    font-size: 30px;
     color:#F694C1;
+}
+.text-box h3{
+    font-size: 20px;
+    color:#ffffff;
 }
 .text-box p{
     font-weight: bold; 
