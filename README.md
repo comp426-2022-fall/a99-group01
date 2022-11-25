@@ -4,7 +4,7 @@
 
 Group 1's Final Project
 
-## How can I run this locally?
+## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
 1. Clone the repository
 2. Do `npm install minimist`, `npm install express`, `npm install path`, `npm install url`, and `npm install better-sqlite3` in the terminal once you are within the folder you cloned
 3. Type `npm start` in the terminal and hit enter
@@ -13,7 +13,7 @@ Group 1's Final Project
 
 ## $\color[RGB]{185, 66, 245} Summary$ 
 
-## $\color[RGB]{185, 66, 245} Contributions$ 
+## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 
 COMP426 final project template boilerplate.
 All your code and documentation goes here.
