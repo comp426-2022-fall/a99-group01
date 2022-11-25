@@ -1,9 +1,8 @@
-# Digital Positivity Journal
+# $\color[RGB]{66, 215, 245} Digital$ $\color[RGB]{66, 215, 245} Positivity$ $\color[RGB]{66, 215, 245} Journal$
 
 <img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src = "https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
 Group 1's Final Project
-
 
 ## How can I run this locally?
 1. Clone the repository
@@ -12,7 +11,9 @@ Group 1's Final Project
 4. On your chrome browser, navigate to the webpage localhost:2000/
 5. Do `CONTROL+C` to stop hosting it
 
-## Summary 
+## $\color[RGB]{185, 66, 245} Summary$ 
+
+## $\color[RGB]{185, 66, 245} Contributions$ 
 
 COMP426 final project template boilerplate.
 All your code and documentation goes here.
