@@ -1,5 +1,5 @@
-# a99-group01 Final Project
-Digital Positivity Journal
+# Digital Positivity Journal
+a99-group01 Final Project
 
 ## How can I run this locally?
 1. Clone the repository
