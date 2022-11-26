@@ -14,6 +14,10 @@ Digital Positivity Journal allows users to keep track of how they felt about the
 4. On your browser, navigate to the webpage localhost:2000/
 5. `CONTROL+C` will kill the server when you are finsihed
 
+## $\color[RGB]{185, 66, 245}Preview$
+![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
+
+
 ## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 Details about our team management are included in [this markdown file](docs/roles.md). Our team dynamics were great. Everyone was motivated to contribute, complete this project, and go above and beyond.
 
