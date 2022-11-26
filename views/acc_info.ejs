@@ -1,27 +1,37 @@
-<h1>Account Info</h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Account Information</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body class="text-box">
+    <h1>Account Info</h1>
 
-<h2>Current Username</h2>
-<%- user -%>
+    <h2>Current Username</h2>
+    <%- user -%>
 
-<h2>Current Password</h2>
-<%- pass -%>
+    <h2>Current Password</h2>
+    <%- pass -%>
 
-<h2>Delete Account</h2>
+    <h2>Delete Account</h2>
 
-<form method="post" action="/delete_acc">
-  <p>
-    <label for="username">Confirm Username:</label>
-    <input type="text" name="username" id="username">
-  </p>
-  <p>
-    <label for="password">Confirm Password:</label>
-    <input type="text" name="password" id="password">
-  </p>
-  <p>
-    <input type="submit" value="Delete account">
-  </p>
-</form>
+    <form method="post" action="/delete_acc">
+      <p>
+        <label for="username">Confirm Username:</label>
+        <input type="text" name="username" id="username">
+      </p>
+      <p>
+        <label for="password">Confirm Password:</label>
+        <input type="text" name="password" id="password">
+      </p>
+      <p>
+        <input type="submit" value="Delete account" class="login-btn">
+      </p>
+    </form>
 
-<form action="/home">
-    <input type="submit" value="Go to Home" />
-</form>
+    <form action="/home">
+        <input type="submit" value="Go to Home" class="login-btn"/>
+    </form>
+
+  </body>
+</html>

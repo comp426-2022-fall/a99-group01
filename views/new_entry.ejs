@@ -1,23 +1,33 @@
-<h1>Time to create a new entry!</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>New Entry</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="text-box">
+  <h1>Time to create a new entry!</h1>
+    <form method="post" action="/new_entry">
+      <p>
+        <label for="message">Message:</label>
+        <input type="text" name="message" id="message">
+      </p>
+      <p>
+        <label for="sentiment">Positive/Negative:</label>
+        <input type="text" name="sentiment" id="sentiment">
+      </p>
+      <p>
+        <label for="date">Date (MM/DD/YYYY):</label>
+        <input type="text" name="date" id="date">
+      </p>
+      <p>
+        <input type="submit" value="Create new entry" class="login-btn">
+      </p>
+    </form>
 
-<form method="post" action="/new_entry">
-  <p>
-    <label for="message">Message:</label>
-    <input type="text" name="message" id="message">
-  </p>
-  <p>
-    <label for="sentiment">Positive/Negative:</label>
-    <input type="text" name="sentiment" id="sentiment">
-  </p>
-  <p>
-    <label for="date">Date (MM/DD/YYYY):</label>
-    <input type="text" name="date" id="date">
-  </p>
-  <p>
-    <input type="submit" value="Create new entry">
-  </p>
-</form>
-
-<form action="/home">
-    <input type="submit" value="Go to home" />
-</form>
+    <form action="/home">
+        <input type="submit" value="Go to home" class="login-btn"/>
+    </form>
+  </div>
+</body>
+</html>
