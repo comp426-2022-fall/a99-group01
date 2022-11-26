@@ -22,3 +22,6 @@ As of now, empty string usernames and passwords are allowed. There aren't major 
 ## Not allow empty fields
 Most, if not all, of the text fields can be left empty. We want the user to interact with the most number of components to have a positive impact on their lives. Potentially checking for empty fields, making the fields required and showing an error message when they are not filled is one way to tackle this issue.
 
+## Flexible UI
+With more time, we intend on making the UI more flexible - it should be compatible with more screen sizes and devices. It should work especially for mobiles because we expect the audience (college students) to easily fill out a quick entry about their day using their phone.
+
