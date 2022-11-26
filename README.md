@@ -4,13 +4,6 @@
 
 Group 1's Final Project
 
-## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
-1. Clone the repository
-2. Do `npm install minimist`, `npm install express`, `npm install path`, `npm install url`, and `npm install better-sqlite3` in the terminal once you are within the folder you cloned. This is so that you install the dependencies.
-3. Type `npm start` in the terminal and hit enter
-4. On your chrome browser, navigate to the webpage localhost:2000/
-5. Do `CONTROL+C` to stop hosting it
-
 ## $\color[RGB]{185, 66, 245} Summary$ 
 
 
@@ -19,6 +12,13 @@ All your code and documentation goes here.
 Change this text to be a brief description of your final project.
 Put the name of your project in the header above.
 You will change everything below to be the main technical documentation, as outlined below.
+
+## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
+1. Clone the repository
+2. Do `npm install minimist`, `npm install express`, `npm install path`, `npm install url`, and `npm install better-sqlite3` in the terminal once you are within the folder you cloned. This is so that you install the dependencies.
+3. Type `npm start` in the terminal and hit enter
+4. On your chrome browser, navigate to the webpage localhost:2000/
+5. Do `CONTROL+C` to stop hosting it
 
 ## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 We have included more details about our team management in [this markdown file](docs/roles.md).
