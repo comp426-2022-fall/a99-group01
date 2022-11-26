@@ -14,7 +14,7 @@ Nihar will manage the packaging and release process for our prototype package. H
 This is someone keeping track of all the moving parts and make sure that everything that needs to happen is happening. Dheya will be the official "project manager." However, everyone is responsible and wants to complete the project and their tasks. We are holding each other accountable with to-do lists and assigning tasks to each other. So, everyone is in a way a project manager.
 
 ### Front end lead
-Ce'niyah will be the front end lead.
+Ce'Niyah will be the front end lead.
 
 ### Back end lead
 Nihar will be the database lead and work with the database lead to ensure proper functionality.
@@ -23,4 +23,4 @@ Nihar will be the database lead and work with the database lead to ensure proper
 Dheya will be the database lead and work with the back end lead to ensure proper functionality.
 
 ### Design Lead
-Ce'niyah has amazing figma skills. She will be the design lead for our project.
+Ce'Niyah has amazing figma skills. She will be the design lead for our project.
