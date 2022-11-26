@@ -7,16 +7,15 @@ Group 1's Final Project
 ## $\color[RGB]{185, 66, 245} Summary$ 
 Digital Positivity Journal allows users to keep track of how they felt about their day over a period of time. With an account, they can add a quick entry to this journal summarizing their day and the overall feelings associated with it. They can also see their history of messages and how they felt since the day they started making entries. We hope to continue supporting users by spreading positivity and increasing their access to resources that could make them feel better.
 
+## $\color[RGB]{185, 66, 245}Preview$
+![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
+
 ## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
 1. Clone the repository
 2. Run `npm install`: this will install all the dependencies needed for this project. A list of dependencies can be found in the `package.json` file.
 3. Run `npm start`
 4. On your browser, navigate to the webpage localhost:2000/
 5. `CONTROL+C` will kill the server when you are finished
-
-## $\color[RGB]{185, 66, 245}Preview$
-![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
-
 
 ## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 Details about our team management are included in [this markdown file](docs/roles.md). Our team dynamics were great. Everyone was motivated to contribute, complete this project, and go above and beyond.
@@ -34,15 +33,6 @@ We are proud of what we were able to accomplish in such a short time. We were fu
 
 ------------------------
 # Checklist
-
-## First steps
-
-Other steps that you will need to take after your team has accepted the assignment:
-
-1. Choose a license and update the LICENSE file accordingly. 
-2. Edit this README.md file and use it as the main location of your technical documentation with links out to information contained under `/docs/`.
-8. Then put your entire development workflow in this repository.
-
 
 
 **DUE:** 2022-12-08T15:00 (End of Exam Period)
