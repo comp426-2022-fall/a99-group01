@@ -9,10 +9,10 @@ Digital Positivity Journal allows users to keep track of how they felt about the
 
 ## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
 1. Clone the repository
-2. Run `npm install`: this will install all the dependencies needed for this project. A list of dependencies can be foud in the `package.json` file.
+2. Run `npm install`: this will install all the dependencies needed for this project. A list of dependencies can be found in the `package.json` file.
 3. Run `npm start`
 4. On your browser, navigate to the webpage localhost:2000/
-5. `CONTROL+C` will kill the server when you are finsihed
+5. `CONTROL+C` will kill the server when you are finished
 
 ## $\color[RGB]{185, 66, 245}Preview$
 ![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
