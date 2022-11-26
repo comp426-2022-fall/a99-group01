@@ -80,42 +80,4 @@ Your team is responsible for incorporating the following specifications and deli
 7. Self/group evaluation (Individual group members: this is part of the final exam for the course.)
 
 
-```README.md
 
-# a99 Final Project
-
-### License your work
-
-In addition to the `README` boiler find a `LICENSE` file in your team's repo.
-This is provided as a placeholder so that you may replace it with the license of your choice.
-
-The placeholder file contains some information about choosing a license and how to include it in your repository.
-Read through the links in this file and try out the decision tools to prepare for having a discussion with your team about licensing.
-
-Make sure that the license specified in your Node `package.json` file matches that in your `LICENSE` file.
-
-```LICENSE
-You will want to change the text in this file to be the text of the license for your project.
-
-Information about choosing a license can be found here:
-
-[Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
-
-[Choose an open source license](https://choosealicense.com/)
-
-[SPDX License List](https://spdx.org/licenses/)
-
-[Browse Software Licenses and Summaries](https://tldrlegal.com/licenses/browse)
-
-[How to choose a license for your own work](https://www.gnu.org/licenses/license-recommendations.en.html) - GNU Operating System
-
-[Public license selector](https://ufal.github.io/public-license-selector/) - Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University
-```
-
-## Documentation examples
-
-https://open-meteo.com/en/docs#api-documentation
-
-https://github.com/jdmar3/coinserver
-
-[Postman Generate API Documentation](https://learning.postman.com/docs/publishing-your-api/documenting-your-api/)
