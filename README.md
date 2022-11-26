@@ -6,7 +6,6 @@ Group 1's Final Project
 
 ## $\color[RGB]{185, 66, 245} Summary$ 
 
-
 COMP426 final project template boilerplate.
 All your code and documentation goes here.
 Change this text to be a brief description of your final project.
@@ -22,6 +21,9 @@ You will change everything below to be the main technical documentation, as outl
 
 ## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 Details about our team management are included in [this markdown file](docs/roles.md). Our team dynamics were great. Everyone was motivated to contribute, complete this project, and go above and beyond.
+
+## $\color[RGB]{185, 66, 245} Planning$
+In addition to the roles, we documented our process of breaking down tasks, communicating, and how we worked as a group to complete this project. We have added details about such future extensions in [this markdown file](docs/plan.md).
 
 ## $\color[RGB]{185, 66, 245} Future$ $\color[RGB]{185, 66, 245} Extensions$
 We are proud of what we were able to accomplish in such a short time. We were further motivated to go above and beyond the requirements. As always, there is room for improvement. In the future, we hope to improve the user experience. We have added details about such future extensions in [this markdown file](docs/futureExtensions.md).
