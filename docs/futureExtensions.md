@@ -9,5 +9,6 @@ When the user wants to look at the history of messages from the home page, they 
 ## Sentiment Analysis
 
 ## Positive messages everyday
+When the user logs in to their page, the first screen the user sees is the home page. On the home page, a meesage will appear for the user with a positive message. The positive message message can hopefully cheer up the user's mood and entice them to log in every day to see what the new message is.
 
 ## Recommend strategies based on whether or not they are having an overall trend of good or bad days
