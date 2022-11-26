@@ -5,12 +5,7 @@
 Group 1's Final Project
 
 ## $\color[RGB]{185, 66, 245} Summary$ 
-
-COMP426 final project template boilerplate.
-All your code and documentation goes here.
-Change this text to be a brief description of your final project.
-Put the name of your project in the header above.
-You will change everything below to be the main technical documentation, as outlined below.
+Digital Positivity Journal allows users to keep track of how they felt about their day over a period of time. With an account, they can add a quick entry to this journal summarizing their day and the overall feelings associated with it. They can also see their history of messages and how they felt since the day they started making entries. We hope to continue supporting users by spreading positivity and increasing their access to resources that could make them feel better.
 
 ## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
 1. Clone the repository
