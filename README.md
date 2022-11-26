@@ -22,7 +22,7 @@ Digital Positivity Journal allows users to keep track of how they felt about the
 Details about our team management are included in [this markdown file](docs/roles.md). Our team dynamics were great. Everyone was motivated to contribute, complete this project, and go above and beyond.
 
 ## $\color[RGB]{185, 66, 245} Planning$
-In addition to the roles, we documented our process of breaking down tasks, communicating, and how we worked as a group to complete this project. We have added details about our planning process in [this markdown file](docs/plan.md). We also used the project board feature of Github. It is private but some of the course instructors have access to it.
+In addition to the roles, we documented our process of breaking down tasks, communicating, and how we worked as a group to complete this project. We have added details about our planning process in [this markdown file](docs/plan.md). We also used the project board feature of Github. It is private but some of the course instructors have access to it. We also used the issues, branches, and pull requests features to collaborate.
 
 ## $\color[RGB]{185, 66, 245} API$
 This web app involved the use of API. We have added details about the API endpoints in [this markdown file](docs/api.md).
