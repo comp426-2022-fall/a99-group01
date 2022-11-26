@@ -164,8 +164,31 @@ app.post('/delete_acc', function(req, res){
 });
 
 
-app.get('/db', function(req, res){
+app.get('/users_db', function(req, res){
     const stmt = db.prepare(`SELECT * FROM users;`);
+    let row = stmt.get();
+
+    if(row === undefined) {
+        res.send('nothing in db');
+    } else {
+        res.send(row);
+    }
+});
+
+app.get('/logs_db', function(req, res){
+    const stmt = db.prepare(`SELECT * FROM logs;`);
+    let row = stmt.get();
+
+    if(row === undefined) {
+        res.send('nothing in db');
+    } else {
+        res.send(row);
+    }
+});
+
+
+app.get('/data_db', function(req, res){
+    const stmt = db.prepare(`SELECT * FROM data;`);
     let row = stmt.get();
 
     if(row === undefined) {
