@@ -56,9 +56,12 @@
 
 ## app.get('/users_db')
 
+- Hidden endpoint, displays to admin the entire users db.
+
 ## app.get('/logs_db')
+
+- Hidden endpoint, displays to admin the entire logs db.
 
 ## app.get('/data_db')
 
-
-
+- Hidden endpoint, displays to admin the entire data db.
