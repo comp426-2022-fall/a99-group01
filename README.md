@@ -13,13 +13,15 @@ Group 1's Final Project
 
 ## $\color[RGB]{185, 66, 245} Summary$ 
 
-## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
 
 COMP426 final project template boilerplate.
 All your code and documentation goes here.
 Change this text to be a brief description of your final project.
 Put the name of your project in the header above.
 You will change everything below to be the main technical documentation, as outlined below.
+
+## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
+We have included more details about our team management in [this markdown file](docs/roles.md).
 
 ## Inspiration
 
