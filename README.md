@@ -21,7 +21,7 @@ You will change everything below to be the main technical documentation, as outl
 5. Do `CONTROL+C` to stop hosting it
 
 ## $\color[RGB]{185, 66, 245} Team$ $\color[RGB]{185, 66, 245} Management$
-We have included more details about our team management in [this markdown file](docs/roles.md).
+We have included more details about our team management in [this markdown file](docs/roles.md). Our team dynamics was great. Everyone was motivated to contribute, complete this project, and go above and beyond.
 
 ## Inspiration
 
