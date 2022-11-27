@@ -23,12 +23,14 @@ Details about our team management are included in [this markdown file](docs/role
 ## $\color[RGB]{185, 66, 245} Planning$
 In addition to the roles, we documented our process of breaking down tasks, communicating, and how we worked as a group to complete this project. We have added details about our planning process in [this markdown file](docs/plan.md). We also used the project board feature of Github. It is private but some of the course instructors have access to it. We also used the issues, branches, and pull requests features to collaborate.
 
+## $\color[RGB]{185, 66, 245} User$ $\color[RGB]{185, 66, 245} Interactions$
+This web app involved many user interactions. We have added details about this in [this markdown file](docs/interactions.md).
+
 ## $\color[RGB]{185, 66, 245} API$
 This web app involved the use of API. We have added details about the API endpoints in [this markdown file](docs/api.md).
 
 ## $\color[RGB]{185, 66, 245} Future$ $\color[RGB]{185, 66, 245} Extensions$
 We are proud of what we were able to accomplish in such a short time. We were further motivated to go above and beyond the requirements. As always, there is room for improvement. In the future, we hope to improve the user experience. We have added details about such future extensions in [this markdown file](docs/futureExtensions.md).
-
 
 
 ------------------------
