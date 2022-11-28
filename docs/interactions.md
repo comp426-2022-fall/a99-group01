@@ -30,4 +30,7 @@ The 'username_exists' displays when the user tries to create an account with a u
 ## view_history
 'View History' is displayed when the user clicks the button "view history" from the 'home' page. On this page, the user sees a log of all of their past entries including the message, sentiment, and date. At the bottom of the page, there is a button labeled "return home" that navigates the user to the 'home' page.
 
+# The following is a hidden endpoint that is technically accessible but a user will not need them
+
 ## view_logs
+'view_logs' keeps track of user interactions. For each interaction, it first shows which user interacted with our website, second it shows what the user clicked on or what page the user went to, and the third thing it shows is the date along with the time the user performed the action. 
