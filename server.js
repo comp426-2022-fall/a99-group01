@@ -7,7 +7,6 @@ import Database from "better-sqlite3"
 const db = new Database('project.db');
 db.pragma('journal_mode = WAL');
 
-
 const sqlInit = `CREATE TABLE users ( id INTEGER PRIMARY KEY AUTOINCREMENT, user VARCHAR, pass VARCHAR );`
 try {
     db.exec(sqlInit);
@@ -42,6 +41,8 @@ app.set('views', path.join(__dirname, 'views'));
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+// the following endpoints are explained in detail in api.md which exists in the docs folder
 
 app.get('/', function (req, res) {
   res.redirect('/login');
