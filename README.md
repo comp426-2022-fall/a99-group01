@@ -7,6 +7,9 @@ Group 1's Final Project
 ## $\color[RGB]{185, 66, 245} Summary$ 
 Digital Positivity Journal allows users to keep track of how they felt about their day over a period of time. With an account, they can add a quick entry to this journal summarizing their day and the overall feelings associated with it. They can also see their history of messages and how they felt since the day they started making entries. We hope to continue supporting users by spreading positivity and increasing their access to resources that could make them feel better.
 
+## $\color[RGB]{185, 66, 245}Demo$
+Take a look at our demo video with - [this link](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
+
 ## $\color[RGB]{185, 66, 245}Preview$
 ![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
 
