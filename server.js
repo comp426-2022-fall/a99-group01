@@ -168,7 +168,7 @@ app.get('/users_db', function(req, res){
     const stmt = db.prepare(`SELECT * FROM users;`);
     let all = stmt.all();
 
-    if(row === undefined) {
+    if(all === undefined) {
         res.send('nothing in db');
     } else {
         res.send(all);
@@ -179,7 +179,7 @@ app.get('/logs_db', function(req, res){
     const stmt = db.prepare(`SELECT * FROM logs;`);
     let all = stmt.all();
 
-    if(row === undefined) {
+    if(all === undefined) {
         res.send('nothing in db');
     } else {
         res.send(all);
@@ -191,7 +191,7 @@ app.get('/data_db', function(req, res){
     const stmt = db.prepare(`SELECT * FROM data;`);
     let all = stmt.all();
 
-    if(row === undefined) {
+    if(all === undefined) {
         res.send('nothing in db');
     } else {
         res.send(all);
