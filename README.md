@@ -36,10 +36,10 @@ In addition to the roles, we documented our process of breaking down tasks, comm
 * url (0.11.0)
 
 ## $\color[RGB]{185, 66, 245} User$ $\color[RGB]{185, 66, 245} Interactions$
-This web app involved many user interactions. We have added details about this in [this markdown file](docs/interactions.md).
+This web app involves many user interactions. We have added details about them in [this markdown file](docs/interactions.md).
 
 ## $\color[RGB]{185, 66, 245} API$
-This web app involved the use of API. We have added details about the API endpoints in [this markdown file](docs/api.md).
+This web app involves the use of an API. We have added details about the API endpoints in [this markdown file](docs/api.md).
 
 ## $\color[RGB]{185, 66, 245} Future$ $\color[RGB]{185, 66, 245} Extensions$
 We are proud of what we were able to accomplish in such a short time. We were further motivated to go above and beyond the requirements. As always, there is room for improvement. In the future, we hope to improve the user experience. We have added details about such future extensions in [this markdown file](docs/futureExtensions.md).
