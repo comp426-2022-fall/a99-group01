@@ -48,13 +48,8 @@ We are proud of what we were able to accomplish in such a short time. We were fu
 
 ------------------------
 
-Checklist
+## Checklist
 
-## Deliverables
-
-4. Documentation
-	2. Code comments (preferably referring to the documentation)
-	3. User instructions in the interface
 5. Demo video
 	1. In order to get credit for this, add a row to the table in the README here and make a pull request: https://github.com/comp426-2022-fall/a99-demos/edit/main/README.md
 7. Self/group evaluation (Individual group members: this is part of the final exam for the course.)
