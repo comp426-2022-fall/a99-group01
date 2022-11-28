@@ -48,8 +48,6 @@ We are proud of what we were able to accomplish in such a short time. We were fu
 
 **DUE:** 2022-12-08T15:00 (End of Exam Period)
 
-The app should be fully documented, including setup instructions, full API documentation, and user instructions, as well as your planning workflow (notes, GitHub Project boards, discussions archives, etc.).
-
 Your team will create a <= 3-minute video describing your app to present to the class about your app.
 This can be a very basic walkthrough, or a description/presentation of features/use cases, or something else.
 Be creative.
@@ -61,19 +59,14 @@ A GitHub repository in the class organization containing your code and documenta
 Your project should take the form of a Node package, with all of the attendant items associated with that.
 The following three script commands should work in your package:
 
-1. `npm install` - Install dependencies for your package.
 2. `npm test` - Start app, check that everything can run, and then stop app.
 3. `npm run` - Command to bring up all parts of the app/system's server scripts.
 
 Your team is responsible for incorporating the following specifications and deliverables into your final project:
 
 3. Database specifications
-	1. User database (if relevant) - registration details (username, email address, etc.)
 	2. Interaction database - details of user interactions (login history, access logs, etc.)
 4. Documentation
-	1. License documenation - Choose a license and include it in the repository just like we have been.
-	1. README.md file with basic descriptiong, installation requirements/instructions, dependency list, run instructions
-	3. `/docs/` directory containing full documentation of every available API endpoint that you create for your app. This directory shoud also house an archive of your planning documentation. 
 	2. Code comments (preferably referring to the documentation)
 	3. User instructions in the interface
 5. Demo video
