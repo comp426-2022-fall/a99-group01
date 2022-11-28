@@ -2,6 +2,7 @@ body {
     background-color: #D3F8E2;
 }
 
+/* most of our webpages use this style for consistency */
 .text-box{
     width: 80%;
     background-color: #A9DEF9;
@@ -31,6 +32,7 @@ body {
         color: #0F9BE6;
     }
 
+/* all buttons use this style for consistency */
 .login-btn{
     color: #E4C1F9;
     border: 3px solid rgb(242, 233, 233);
