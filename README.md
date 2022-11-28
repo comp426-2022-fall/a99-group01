@@ -23,6 +23,15 @@ Details about our team management are included in [this markdown file](docs/role
 ## $\color[RGB]{185, 66, 245} Planning$
 In addition to the roles, we documented our process of breaking down tasks, communicating, and how we worked as a group to complete this project. We have added details about our planning process in [this markdown file](docs/plan.md). We also used the project board feature of Github. It is private but some of the course instructors have access to it. We also used the issues, branches, and pull requests features to collaborate.
 
+## $\color[RGB]{185, 66, 245} Dependencies$
+* better-sqlite3 (8.0.0)
+* consolidate (0.16.0)
+* ejs (3.1.8)
+* express (4.18.2)
+* minimist (1.2.7)
+* path (0.12.7)
+* url (0.11.0)
+
 ## $\color[RGB]{185, 66, 245} User$ $\color[RGB]{185, 66, 245} Interactions$
 This web app involved many user interactions. We have added details about this in [this markdown file](docs/interactions.md).
 
