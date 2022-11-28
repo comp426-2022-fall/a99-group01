@@ -8,7 +8,7 @@ Group 1's Final Project
 Digital Positivity Journal allows users to keep track of how they felt about their day over a period of time. With an account, they can add a quick entry to this journal summarizing their day and the overall feelings associated with it. They can also see their history of messages and how they felt since the day they started making entries. We hope to continue supporting users by spreading positivity and increasing their access to resources that could make them feel better.
 
 ## $\color[RGB]{185, 66, 245}Demo$
-Take a look at our demo video with - [this link](https://youtu.be/B4ztjpJnPjc)
+Take a look at our demo video with - [this link](https://youtu.be/B4ztjpJnPjc). We are really excited to share our product with you - maybe too excited as seen by the length of the video 😄
 
 ## $\color[RGB]{185, 66, 245}Preview$
 ![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
@@ -46,29 +46,11 @@ We are proud of what we were able to accomplish in such a short time. We were fu
 
 
 ------------------------
-# Checklist
 
-
-**DUE:** 2022-12-08T15:00 (End of Exam Period)
-
-Your team will create a <= 3-minute video describing your app to present to the class about your app.
-This can be a very basic walkthrough, or a description/presentation of features/use cases, or something else.
-Be creative.
-Think of it as an opportunity to hone your ability to pitch an idea that you have in prototype (because that is what it is).
+Checklist
 
 ## Deliverables
 
-A GitHub repository in the class organization containing your code and documentation and a prototype release package.
-Your project should take the form of a Node package, with all of the attendant items associated with that.
-The following three script commands should work in your package:
-
-2. `npm test` - Start app, check that everything can run, and then stop app.
-3. `npm run` - Command to bring up all parts of the app/system's server scripts.
-
-Your team is responsible for incorporating the following specifications and deliverables into your final project:
-
-3. Database specifications
-	2. Interaction database - details of user interactions (login history, access logs, etc.)
 4. Documentation
 	2. Code comments (preferably referring to the documentation)
 	3. User instructions in the interface
