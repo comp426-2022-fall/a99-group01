@@ -11,6 +11,7 @@ Digital Positivity Journal allows users to keep track of how they felt about the
 Take a look at our demo video with - [this link](https://youtu.be/B4ztjpJnPjc). We are really excited to share our product with you - maybe too excited as seen by the length of the video 😄. Note: it was hard finding a time for all of us to meet and record this quick demo. However, all members contributed enough. We wanted to focus on the main pages even though all our endpoints work.
 
 ## $\color[RGB]{185, 66, 245}Preview$
+Note: it may take a minute to load.
 ![](https://github.com/comp426-2022-fall/a99-group01/blob/main/demo.gif)
 
 ## $\color[RGB]{185, 66, 245} Setup$ $\color[RGB]{185, 66, 245} Instructions$
