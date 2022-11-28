@@ -8,7 +8,7 @@ Group 1's Final Project
 Digital Positivity Journal allows users to keep track of how they felt about their day over a period of time. With an account, they can add a quick entry to this journal summarizing their day and the overall feelings associated with it. They can also see their history of messages and how they felt since the day they started making entries. We hope to continue supporting users by spreading positivity and increasing their access to resources that could make them feel better.
 
 ## $\color[RGB]{185, 66, 245}Demo$
-Take a look at our demo video with - [this link](https://youtu.be/B4ztjpJnPjc). We are really excited to share our product with you - maybe too excited as seen by the length of the video 😄. Note: it was hard finding a time for all of us to meet and record this quick demo. However, all members contributed enough. We wanted to focus on the main pages even though all our endpoints work.
+Take a look at our demo video with - [this link](https://youtu.be/B4ztjpJnPjc). We are really excited to share our product with you - maybe too excited as seen by the length of the video 😄 We wanted to focus on the main pages even though all our endpoints work. Note: it was hard finding a time for all of us to meet and record this quick demo. Even though everyone were not part of the presentation, everyone contributed as much as they needed to. 
 
 ## $\color[RGB]{185, 66, 245}Preview$
 Note: it may take a minute to load.
