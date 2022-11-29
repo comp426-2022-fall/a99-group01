@@ -54,3 +54,7 @@ body {
 #home-align {
     display: inline-flex;
 }
+
+#new-acc {
+    top: 30%;
+}
