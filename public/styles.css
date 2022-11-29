@@ -46,3 +46,11 @@ body {
     transition: 1s;
     color: #77a0ec;
     }
+
+#p-style {
+    margin: 4%;
+}
+
+#home-align {
+    display: inline-flex;
+}
