@@ -44,15 +44,3 @@ This web app involves the use of an API. We have added details about the API end
 
 ## $\color[RGB]{185, 66, 245} Future$ $\color[RGB]{185, 66, 245} Extensions$
 We are proud of what we were able to accomplish in such a short time. We were further motivated to go above and beyond the requirements. As always, there is room for improvement. In the future, we hope to improve the user experience. We have added details about such future extensions in [this markdown file](docs/futureExtensions.md).
-
-
-------------------------
-
-## Checklist
-
-5. Demo video
-	1. In order to get credit for this, add a row to the table in the README here and make a pull request: https://github.com/comp426-2022-fall/a99-demos/edit/main/README.md
-7. Self/group evaluation (Individual group members: this is part of the final exam for the course.)
-
-
-
